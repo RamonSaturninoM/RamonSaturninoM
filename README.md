@@ -2,7 +2,7 @@
 My name is Ramon Saturnino, I'm a computer science student at the University of North Carolina at Greensboro. Here's a bit about me:
 
 💬 Reach me by email or LinkedIn!
-#### [Email](mailto:r_saturnino@uncg.edu) - [LinkedIn](https://www.linkedin.com/in/ram%C3%B3n-saturnino-/) 
+#### [Email](mailto:r_saturnino@uncg.edu) - [LinkedIn](https://www.linkedin.com/in/ramon-saturnino-/) 
 
 ## Work Experience 👨‍💻
 - Aisin NC 📱 - Automation Engineer - Oct 2022 to Present 
